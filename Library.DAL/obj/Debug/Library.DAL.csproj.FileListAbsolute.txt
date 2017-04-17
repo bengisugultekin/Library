@@ -1,0 +1,13 @@
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\Library.DAL.dll.config
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\Library.DAL.dll
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\Library.DAL.pdb
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\Library.Entity.dll
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\Library.Entity.pdb
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\Library.Entity.dll.config
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\obj\Debug\Library.DAL.dll
+C:\Users\Bengisu\Source\Repos\Library\Library\Library.DAL\obj\Debug\Library.DAL.pdb
